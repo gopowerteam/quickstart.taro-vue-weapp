@@ -1,0 +1,9 @@
+{
+    "gateway": "http://gateway.dev.xbt-dev.top",
+    "services": {
+        "wxcp-service": "xbt-platform-wxcp-service",
+        "customer-service": "xbt-platform-customer-service",
+        "eky-adapter-server": "eky-adapter-server",
+        "xbt-platform-wxcp-service": "xbt-platform-wxcp-service"
+    }
+}
